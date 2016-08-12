@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Svatba bude 1.10.2016"
 date:   2016-08-11 16:48:03 +0200
 categories: jekyll update
 ---
