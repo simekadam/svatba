@@ -8,5 +8,6 @@ layout: default
 
 # Bla bla bla, 1.10.2016 bla bla, ve Sluzatkach bla bla u Pelhrimova. Kaplicka.
 
+## Adam a Tereza
 
 {% include sharing.html %}
