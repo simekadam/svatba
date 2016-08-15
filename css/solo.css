@@ -6,7 +6,7 @@ html {
 
 
 @media (max-width: 325px) {
-  html { font: 17px/1.6 'Open Sans', sans-serif; }
+  html { font: 17px/1.6 'Raleway', sans-serif; }
 }
 
 body {
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   color: #111;
   text-rendering: optimizeLegibility;
-  font-family: 'Raleway', sans serif;
+  font-family: 'Raleway', sans-serif;
   line-height: 1.2
 }
 
