@@ -8,7 +8,8 @@ Jo jinak obřad je, Terka říkala, veřejnej, tak to ani kdyžtak třeba psát 
 
 ---
 
-# Obřad bude 1. října tenhle rok (2016) ve Služátkách u Pelhřimova  u kapličky Nanebevzetí Panny Marie. Přijde i pan farář.
+# Obřad bude 1. října tenhle rok (2016) ve Služátkách u Pelhřimova.
+*U kapličky Nanebevzetí Panny Marie. Přijde i pan farář.*
 
 Kaplička je to moc hezká a maj tam teďka nový obrazy. Nebo tedy nově starý, ale zrestaurovaný. 
 
