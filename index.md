@@ -16,6 +16,17 @@ Jo jinak obřad je veřejnej, tak prostě přijdťe.
 
 Fara je to moc hezká, jinak bysme to tam nedělali a pro nemístňáky máme znovu i odkaz na [mapy.cz](https://mapy.cz/s/XNqa). Ze Služátek je to trochu do kopce, ale [na  <i class="fa fa-bicycle" aria-hidden="true"></i> kousek](https://www.strava.com/routes/6157429) a kdo chce, tak může i [bežet](https://www.strava.com/routes/6157429) nebo jet autem.
 
+### Na faře začínáme hodinu po třetí.
+
+Tedy 16:00 start. Nějaké menší občerstvení bude k dispozici i dříve, detaily ladíme a snad něco uvaříme. A narazíme sud.
+
+#### Co vás na faře dále čeká?
+
+Tak bude tam ženich a nevěsta a dále?
+
+
+
+
 
 
 
