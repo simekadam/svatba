@@ -5,7 +5,7 @@ description: A responsive template for publishing single-page websites, articles
 url: "https://simekadam.github.io/svatba/"
 baseurl: "https://simekadam.github.io/svatba/"
 
-font-awesome-include: true # make this false if you don't need font-awesome
+font-awesome-include: false # make this false if you don't need font-awesome
 
 # Build settings
 markdown: kramdown
