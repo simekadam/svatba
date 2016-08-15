@@ -5,7 +5,7 @@ layout: default
 
 ### Obřad bude 1. října ve Služátkách u kapličky Nanebevzetí Panny Marie. Přijde i pan farář.
 
-Kaplička je to moc hezká a maj tam teďka nový obrazy. Nebo tedy nově starý, ale zrestaurovaný.
+<i class="fa fa-quote-left fa-3x fa-pull-left fa-border"></i>Kaplička je to moc hezká a maj tam teďka nový obrazy. Nebo tedy nově starý, ale zrestaurovaný.
 A když by někdo nevěděl, kde taková kaplička je, tak [mapy.cz to vědí](https://mapy.cz/s/YrsU). 
 Cesta z [Prahy na <i class="fa fa-bicycle" aria-hidden="true"></i>](https://www.strava.com/activities/338367643) trvá něco přes 4 hodiny, ale můžete použít i alternativní způsoby dopravy, třeba běh nebo auto.
 
