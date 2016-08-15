@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-![here](https://goo.gl/photos/XDxVWKjWopiJqDiT9)
+![](images/IMG_3115.JPG)
 #### Obřad bude 1. října ve Služátkách u kapličky Nanebevzetí Panny Marie. Přijde i pan farář.
 
 _Kaplička je to moc hezká a maj tam teďka nový obrazy. Nebo tedy nově starý, ale zrestaurovaný_ 
