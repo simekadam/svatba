@@ -12,7 +12,4 @@ Jo jinak obřad je, Terka říkala, veřejnej, tak to ani kdyžtak třeba psát 
 
 
 
-
 ## Adam a Tereza
-
-{% include sharing.html %}
