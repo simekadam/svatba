@@ -18,9 +18,9 @@ Fara je to moc hezká, jinak bysme to tam nedělali a pro nemístňáky máme zn
 
 ### Na faře začínáme hodinu po třetí.
 
-Tedy 16:00 start. Nějaké menší občerstvení bude k dispozici i dříve, detaily ladíme a snad něco uvaříme. A narazíme sud.
+Tedy 16:00 start. Nějaké menší občerstvení bude k dispozici možná dříve, detaily ladíme a snad něco uvaříme. A narazíme sud.
 
-#### Co vás na faře dále čeká?
+##### Co vás na faře dále čeká?
 
 Tak bude tam ženich a nevěsta a dále?
 
