@@ -3,7 +3,7 @@ layout: default
 ---
 ![](images/IMG_3115.JPG)
 
-[### Obřad bude 1. října ve Služátkách u kapličky Nanebevzetí Panny Marie. Přijde i pan farář.](https://mapy.cz/s/YrsU)
+###[Obřad bude 1. října ve Služátkách u kapličky Nanebevzetí Panny Marie. Přijde i pan farář.](https://mapy.cz/s/YrsU)
 
 Kaplička je to moc hezká a maj tam teďka nový obrazy. Nebo tedy nově starý, ale zrestaurovaný.
 
