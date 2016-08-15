@@ -2,7 +2,7 @@
 
 html {
   font: 18px/1.6 'Merriweather', serif;
-  
+
 }
 
 
@@ -12,7 +12,7 @@ html {
 
 body {
   margin: 2rem 0 5rem;
-  color: #222;
+  color: #555;
 }
 
 @media (min-width: 30rem) {
@@ -120,7 +120,8 @@ blockquote {
   margin-right: 0;
   padding: 0rem 0.8rem;
   border-left: .3rem solid #ccc;
-  color: #555;
+  color: #888;
+  font-weight: 300;
 }
 
 blockquote p:last-child {
