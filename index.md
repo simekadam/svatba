@@ -14,7 +14,7 @@ Jo jinak obřad je veřejnej, tak prostě přijdťe.
 
 ### Po obřadu bude rodinný oběd a následně veselice na faře v Nové Cerekvi.
 
-Fara je to moc hezká, jinak bysme to tam nedělali a znovu i odkaz na [mapy.cz](https://mapy.cz/s/XNqa). Ze Služátek [je to na  <i class="fa fa-bicycle" aria-hidden="true"></i> kousek](https://www.strava.com/routes/6157429), ale dá se i [bežet](https://www.strava.com/routes/6157429) nebo jet autem.
+Fara je to moc hezká, jinak bysme to tam nedělali a pro nemístňáky znovu i odkaz na [mapy.cz](https://mapy.cz/s/XNqa). Ze Služátek [je to na  <i class="fa fa-bicycle" aria-hidden="true"></i> kousek](https://www.strava.com/routes/6157429), ale dá se i [bežet](https://www.strava.com/routes/6157429) nebo jet autem.
 
 
 
