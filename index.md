@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-
 ## Tak jsme se rozhodli se vzit.
 ***
 A budeme mit Svatbu. Pokud jste sem došli přes pozvánku, tak jste asi zvaný, pokud ne a myslíte si, že byste neměli chybět, tak nám napište, někde v rohu se třeba místo najde.
