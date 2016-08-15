@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300,300italc,400,400italic,500,700);
 
 html {
-  font: 18px/1.6 'Old Standard TT', serif;
+  font: 18px/1.6 'Merriweather', serif;
 }
 
 
@@ -33,7 +33,7 @@ h1, h2, h3, h4, h5, h6 {
   margin: 0 0 0.5rem -0.1rem /* align left edge */;
   color: #111;
   text-rendering: optimizeLegibility;
-  font-family: 'Cabin', sans serif;
+  font-family: 'Raleway', sans serif;
   line-height: 1.2
 }
 
