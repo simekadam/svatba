@@ -33,7 +33,7 @@ Tedy tak trochu. A můžete si ho [vytisknout](images/IMG_0117.jpg) - abyste se 
 
 ![](images/IMG_0117.jpg)
 
-## Vstup je zdarma
+### Vstup je zdarma
 
 a ze všech stran, ale ideální bude přijít bránou. Pokud byste nás chtěli něčím obdarovat.
 
