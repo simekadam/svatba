@@ -43,7 +43,7 @@ Program na faře bude potom "volná zábava" <i class="fa fa-music" aria-hidden=
 . Možná přijde i kouzelník <i class="fa fa-magic" aria-hidden="true"></i>
 .
 
-### Vstup je zdarma <i class="fa fa-money" aria-hidden="true"></i>
+### Vstup je zdarma  <i class="fa fa-money" aria-hidden="true"></i>
 
 a ze všech stran, ale ideální bude přijít bránou. Pokud byste nás chtěli něčím obdarovat, tak [můžete](https://paper.dropbox.com/doc/Svatebn--aCw0HP3O89b11gIUlUArW).
 
