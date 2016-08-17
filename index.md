@@ -34,8 +34,8 @@ Tedy tak trochu. A můžete si ho [vytisknout](images/IMG_0117.jpg) - abyste se 
 ![](images/IMG_0117.jpg)
 
 >A jestli tomu nerozumíte tak po obřadu se rodina odebere na společný slavnostní oběd do hotelu Slavie v Pelhřimově na náměstí. Tam si dáme něco dobrého, trochu vydechneme a budeme pokračovat na faru.
-Ti do nejdou na oběd, tak mají rozchod. Sraz je na faře ve čtyří, budeme se snažit, aby tam byl třeba guláš a něco k pití už o trochu dříve. Počítám, že to na kole nezabere tolik času a že bude hlad.
-Program na faře bude potom "volná zábava". Možná přijde i kouzelník. 
+Ti kdo nejdou na oběd, tak mají rozchod. Sraz je na faře ve čtyří, budeme se snažit, aby tam byl třeba guláš a něco k pití už o trochu dříve. Počítám, že to na kole nezabere tolik času a že bude hlad.
+Program na faře bude potom "volná zábava". Možná přijde i kouzelník.
 
 ### Vstup je zdarma
 
