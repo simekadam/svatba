@@ -45,7 +45,7 @@ Program na faře bude potom "volná zábava" <i class="fa fa-music" aria-hidden=
 
 ### Vstup je zdarma
 
-a ze všech stran, ale ideální bude přijít bránou. Pokud byste nás chtěli něčím obdarovat, tak...
+a ze všech stran, ale ideální bude přijít bránou. Pokud byste nás chtěli něčím obdarovat, tak [můžete](https://paper.dropbox.com/doc/Svatebn--aCw0HP3O89b11gIUlUArW).
 
 
 
