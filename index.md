@@ -37,7 +37,8 @@ Tedy tak trochu. A můžete si ho [vytisknout](images/IMG_0117.jpg) - abyste se 
  do hotelu Slavie v Pelhřimově na náměstí. Tam si dáme něco dobrého, trochu vydechneme <i class="fa fa-coffee" aria-hidden="true"></i>
  a budeme pokračovat na faru.
 Ti kdo nejdou na oběd, tak mají rozchod. Sraz je na faře ve čtyři <i class="fa fa-clock-o" aria-hidden="true"></i>
-, budeme se snažit, aby tam byl třeba guláš a něco k pití už o trochu dříve. Počítám, že to na kole nezabere tolik času a že bude hlad.
+, budeme se snažit, aby tam byl třeba guláš a něco k pití už o trochu dříve <i class="fa fa-beer" aria-hidden="true"></i>
+. Počítám, že to na kole nezabere tolik času a že bude hlad.
 Program na faře bude potom "volná zábava" <i class="fa fa-music" aria-hidden="true"></i>
 . Možná přijde i kouzelník <i class="fa fa-magic" aria-hidden="true"></i>
 .
