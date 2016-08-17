@@ -20,7 +20,8 @@ Fara je to moc hezká, jinak bysme to tam nedělali a pro nemístňáky máme zn
 
 Tedy 16:00 start. Nějaké menší občerstvení bude k dispozici možná dříve, detaily ladíme a snad něco uvaříme. A narazíme sud.
 
-> Doporučená výbava viz obrázek níže. Spaní bude možné na zemi na faře ve velké místnosti v podkroví. Případně na zahradě. Každopádně se bude hodit spacák, matrace tam jsou, ale karimatka je jistotou. Bude říjen a doufáme v babí léto <i class="fa fa-spin fa-sun-o" aria-hidden="true"></i>
+> Doporučená výbava viz obrázek níže <i class="fa fa-arrow-down" aria-hidden="true"></i>
+. Spaní bude možné na zemi na faře ve velké místnosti v podkroví. Případně na zahradě. Každopádně se bude hodit spacák, matrace tam jsou, ale karimatka je jistotou. Bude říjen a doufáme v babí léto <i class="fa fa-spin fa-sun-o" aria-hidden="true"></i>
 , ale může být k večeru zima, tak s tím počítejte. A když bude pršet, tak se dovnitř asi všichni pohodlně nevejdeme. Takže <i class="fa fa-umbrella" aria-hidden="true"></i>
  taky s sebou. Dále bežecké boty. Třeba se budou hodit. <i class="fa fa-smile-o" aria-hidden="true"></i>
 
