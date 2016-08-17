@@ -27,11 +27,15 @@ Tedy 16:00 start. Nějaké menší občerstvení bude k dispozici možná dřív
 
 ![](images/IMG_3152.jpg)
 
-### Máme program
+### Máme už i program
 
-Který si i můžete [vytisknout](images/IMG_0117.jpg), abyste se neztratili. Ale nemusíte
+Tedy tak trochu. A můžete si ho [vytisknout](images/IMG_0117.jpg) - abyste se neztratili. Ale nemusíte.
 
 ![](images/IMG_0117.jpg)
+
+## Vstup je zdarma
+
+a ze všech stran, ale ideální bude přijít bránou. Pokud byste nás chtěli něčím obdarovat.
 
 
 
