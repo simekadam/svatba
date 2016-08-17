@@ -22,7 +22,7 @@ Tedy 16:00 start. Nějaké menší občerstvení bude k dispozici možná dřív
 
 > S sebou si vemte věci na obrázku. Spaní bude možné na zemi na faře ve velké místnosti v podkroví. Případně na zahradě. Každopádně se bude hodit spacák, matrace tam jsou, ale karimatka je jistotou. Bude říjen a doufáme v babí léto, ale může být k večeru zima, tak s tím počítejte. A když bude pršet, tak se dovnitř asi všichni pohodlně nevejdeme. Takže deštník taky s sebou. Dále bežecké boty. Třeba se budou hodit.
 
-![](images/IMG_3152.JPG)
+![](images/IMG_3152.jpg)
 
 ##### Co vás na faře dále čeká?
 
