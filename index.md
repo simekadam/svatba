@@ -27,9 +27,11 @@ Tedy 16:00 start. Nějaké menší občerstvení bude k dispozici možná dřív
 
 ![](images/IMG_3152.jpg)
 
-##### Co vás na faře dále čeká?
+### Máme program
 
-Tak bude tam ženich a nevěsta a dále?
+Který si i můžete [vytisknout](images/IMG_0117.jpg), abyste se neztratili. Ale nemusíte
+
+![](images/IMG_0117.jpg)
 
 
 
