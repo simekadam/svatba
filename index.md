@@ -48,7 +48,7 @@ a ze všech stran, ale ideální bude přijít bránou. Pokud byste nás chtěli
 přijímáme i dary finanční. My budeme skoro radši, nemáme moc místa a naše domácnost je zatím taková rozlítaná<i class="fa fa-smile-o fa-spin" aria-hidden="true"></i>. Ideálně v korunách, ale spokojíme se i s dolary, eura případně švýcarské franky.
 
 
-### Myslíte, že něco o svatbě nevíte, ale přitom máte pocit, ze byste to měli vědět?
+### Myslíte, že je něco, co o svatbě nevíte, ale přitom máte pocit, že byste to měli vědět?
 
  Tak buďto kontaktujte nás, nebo svědky, případně zamiřte na [naše webové stránky](http://bit.ly/terezadam). Nebo Facebooku je [událost](https://www.facebook.com/events/1097455570329908/1097460940329371) (soukromá), tak tam se můžete ptát taky a my tam taky třeba něco nezajímavého napíšeme.
 
