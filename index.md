@@ -54,7 +54,7 @@ přijímáme i dary finanční. My budeme skoro radši, nemáme moc místa a na�
 
 
 
-### Hustodémosky se těšíme!!
+### Hrozně moc se těšíme!!
 
 
 
