@@ -44,14 +44,14 @@ Program na faře bude potom "volná zábava" <i class="fa fa-music" aria-hidden=
 
 ### Vstup je zdarma
 
-a ze všech stran, ale ideální bude přijít bránou. Pokud byste nás chtěli něčím obdarovat, tak budeme rádi, vybrat můžete například něco ze  [seznamu](https://docs.google.com/document/d/1wapqIzN7iMNeWjE8wHvT6e6G1oZIgXBWVxprIO5kano/edit?usp=sharing). Ale jestli si s tím nechcete lámat hlavy, tak
+a ze všech stran, ale ideální bude přijít bránou. Pokud byste nás chtěli něčím obdarovat, tak budeme rádi, vybrat můžete například něco z našeho  [oficiálního seznamu svatebních darů](https://docs.google.com/document/d/1wapqIzN7iMNeWjE8wHvT6e6G1oZIgXBWVxprIO5kano/edit?usp=sharing). Ale jestli si s tím nechcete lámat hlavy, tak
 přijímáme i dary finanční. My budeme skoro radši, nemáme moc místa a naše domácnost je zatím taková rozlítaná <i class="fa fa-plane" aria-hidden="true"></i>
-<i class="fa fa-smile-o fa-spin" aria-hidden="true"></i>. Ideálně v korunách, ale spokojíme se i s dolary, eura případně švýcarské franky.
+<i class="fa fa-smile-o fa-spin" aria-hidden="true"></i>. Ideálně v korunách, ale spokojíme se i s dolary, eury případně švýcarskými franky.
 
 
 ### Myslíte, že je něco, co o svatbě nevíte, ale přitom máte pocit, že byste to měli vědět?
 
- Tak buďto kontaktujte nás, nebo svědky, případně zamiřte na [naše webové stránky](http://bit.ly/terezadam). Nebo Facebooku je [událost](https://www.facebook.com/events/1097455570329908/1097460940329371) (soukromá), tak tam se můžete ptát taky a my tam taky třeba něco nezajímavého napíšeme.
+ Tak buďto kontaktujte nás, nebo svědky, případně zamiřte na [naše webové stránky](http://bit.ly/terezadam). Nebo Facebooku je [událost <i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/events/1097455570329908/1097460940329371) (soukromá), tak tam se můžete ptát taky a my tam taky třeba něco nezajímavého napíšeme.
 
 
 
