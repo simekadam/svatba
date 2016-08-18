@@ -45,7 +45,7 @@ Program na faře bude potom "volná zábava" <i class="fa fa-music" aria-hidden=
 ### Vstup je zdarma
 
 a ze všech stran, ale ideální bude přijít bránou. Pokud byste nás chtěli něčím obdarovat, tak budeme rádi, vybrat můžete například něco ze  [seznamu](https://docs.google.com/document/d/1wapqIzN7iMNeWjE8wHvT6e6G1oZIgXBWVxprIO5kano/edit?usp=sharing). Ale jestli si s tím nechcete lámat hlavy, tak
-přijímáme i dary finanční. My budeme skoro radši, nemáme moc místa a naše domácnost je zatím taková rozlítaná:) Ideálně v korunách, ale spokojíme se i s dolary, eura případně švýcarské franky.
+přijímáme i dary finanční. My budeme skoro radši, nemáme moc místa a naše domácnost je zatím taková rozlítaná<i class="fa fa-smile-o fa-spin" aria-hidden="true"></i>. Ideálně v korunách, ale spokojíme se i s dolary, eura případně švýcarské franky.
 
 
 ### Myslíte, že něco o svatbě nevíte, ale přitom máte pocit, ze byste to měli vědět?
