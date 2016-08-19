@@ -51,7 +51,7 @@ přijímáme i dary finanční. My budeme skoro radši, nemáme moc místa a na�
 
 ### Myslíte, že je něco, co o svatbě nevíte, ale přitom máte pocit, že byste to měli vědět?
 
- Tak buďto kontaktujte nás, nebo svědky, případně zamiřte na [naše webové stránky](http://bit.ly/terezadam). Nebo Facebooku je [událost <i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/events/1097455570329908/1097460940329371) (soukromá), tak tam se můžete ptát taky a my tam taky třeba něco nezajímavého napíšeme.
+ Tak buďto kontaktujte nás, nebo svědky, případně zamiřte na [naše webové stránky](http://bit.ly/terezadam). Na Facebooku je [událost <i class="fa fa-facebook-official" aria-hidden="true"></i>](https://www.facebook.com/events/1097455570329908/1097460940329371) (soukromá), tak tam se můžete ptát taky a my tam taky třeba něco nezajímavého napíšeme.
 
 
 
